@@ -44,3 +44,7 @@ Prototype on figma
 
 ^ these steps kind of come together tho? 
 
+Links: 
+- [this](https://www.dhiwise.com/post/dart-vs-swift-optimal-selection-for-ios-app-development)
+- [another thing ](https://crustlab.com/blog/swift-vs-dart/#:~:text=Xcode%20is%20built%20with%20all,Flutter%20and%20Dart%20plugins%20installed.)
+
